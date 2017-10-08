@@ -1,4 +1,4 @@
-$(call inherit-product, device/samsung/gts210vewifi/full_gts210velte.mk)
+$(call inherit-product, device/samsung/gts210velte/full_gts210velte.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
